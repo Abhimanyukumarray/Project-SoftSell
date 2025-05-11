@@ -1,12 +1,18 @@
-# React + Vite
+# SoftSell Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive single-page marketing website for SoftSell, a fictional SaaS company. Built with React, Tailwind CSS, Framer Motion, and Web3Forms for contact form integration.
 
-Currently, two official plugins are available:
+# Features
+- Modern, clean UI with dark mode toggle
+- Responsive design for all devices
+- Animated "How It Works" section using Framer Motion
+- Testimonials section
+- Functional contact form using Web3Forms API
+- Built with React and Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Tech Stack
+- React.js
+- Tailwind CSS
+- Framer Motion
+- Web3Forms (for form submission)
+- Vite / Create React App (depending on your setup)
